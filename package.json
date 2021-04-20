@@ -1,0 +1,24 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "Pure JS Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-samurai-l/exel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "samurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-samurai-l/exel/issues"
+  },
+  "homepage": "https://github.com/l-samurai-l/exel#readme"
+}
